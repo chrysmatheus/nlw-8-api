@@ -3,15 +3,15 @@
     🚀 Rocketseat - NLW-8 - Feedget - API part 🚀
 </h1>
 <h1 align = "center">
-    💻 Project develeped using NodeJs, Typescript, Express, Prisma, Nodemailer and Jest 💻
+    💻 Project develeped using NodeJs, Typescript, Express, Prisma, Nodemailer, Jest and Postgresql💻
 </h1>
 <h1 align = "center">
     Deployed in 
     <a href="https://railway.app">
-        Railway.app
+        railway.app
     </a> 
     using CI/CD, 
     <a href="https://nlw-8-api-production.up.railway.app/">
-        Click here see the api.
+        ⚡Click here see the api.⚡
     </a> 
 </h1>

@@ -3,7 +3,7 @@
     🚀 Rocketseat - NLW-8 - Feedget - API part 🚀
 </h1>
 <h1 align = "center">
-    💻 Project developed using NodeJs, TypeScript, Express, Prisma, Nodemailer, Jest and PostgreSql💻
+    💻 Project developed using NodeJs, TypeScript, Express, Prisma, Nodemailer, Jest and PostgreSql 💻
 </h1>
 <h1 align = "center">
     Deployed in 
